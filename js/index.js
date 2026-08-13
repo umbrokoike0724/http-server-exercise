@@ -4,3 +4,4 @@ function clickHandler() {
   p.innerText = "Added by JS";
   box.appendChild(p);
 }
+  
